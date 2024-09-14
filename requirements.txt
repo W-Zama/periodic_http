@@ -1,0 +1,13 @@
+altgraph==0.17.4
+certifi==2024.8.30
+charset-normalizer==3.3.2
+idna==3.8
+packaging==24.1
+pefile==2024.8.26
+pyinstaller==6.10.0
+pyinstaller-hooks-contrib==2024.8
+pywin32-ctypes==0.2.3
+requests==2.32.3
+setuptools==72.1.0
+urllib3==2.2.3
+wheel==0.44.0
